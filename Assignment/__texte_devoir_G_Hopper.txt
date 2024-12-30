@@ -1,0 +1,87 @@
+Grace Hopper en 1984.
+Biographie
+
+Naissance	
+9 décembre 1906
+New York, États-Unis
+Décès	
+1er janvier 1992 (à 85 ans)
+Comté d'Arlington, États-Unis
+Sépulture	
+Cimetière national d'Arlington (7 janvier 1992)
+Nom de naissance	
+Grace Brewster Murray
+Surnom	
+Amazing Grace
+Nationalité	
+américaine
+Formation	
+Wardlaw-Hartridge School (en) (1923-1924)
+Vassar College (licence (en)) (1924-1928)
+Université Yale (maîtrise (en)) (1928-1930)
+Université Yale (doctorat) (jusqu'en 1934)
+Activités	
+Mathématicienne, professeure d’université, programmeuse, informaticienne, officier de marine, physicienne
+Période d'activité	
+À partir de 1943
+
+
+
+Grace Murray Hopper est une informaticienne américaine et Rear admiral (lower half) de la marine américaine, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage Cobol en 1959.
+
+Biographie
+Jeunesse
+
+Grace Brewster Murray est née le 9 décembre 1906 à New York. Elle commence à étudier les mathématiques, la physique et l'économie au Vassar College, et en sort diplômée d'un Bachelor of Art en mathématiques et physique en 1928. Elle enseigne au Vassar tout en obtenant son Master of Arts, en 1930, puis son doctorat, en 1934, en mathématiques à l'université Yale.
+
+En 1930, elle épouse Vincent Foster Hopper, un professeur de littérature de l'université NYU. Le couple, qui n'a pas d'enfants, divorce en 19453.
+
+Carrière
+
+En 1943, Grace Hopper s'engage dans la marine américaine. Promue au grade de lieutenant, elle est affectée l'année suivante au Bureau of Ordnance Computation Project de l'université Harvard. Elle travaille dans l'équipe de Howard Aiken sur l'ordinateur Harvard Mark I. Elle fait partie du premier groupe, comptant trois personnes, apprenant à le programmer3.
+
+À la fin de la Seconde Guerre mondiale, elle quitte le service actif de la marine, mais continue à travailler au développement des ordinateurs Harvard Mark II puis Harvard Mark III pour le compte du Computation Laboratory d'Harvard3.
+
+En 1949, Grace Hopper est employée par la Eckert-Mauchly Computer Corporation (en) (EMCC) et rejoint l'équipe développant UNIVAC I à Philadelphie. En 1950, la compagnie est rachetée par Remington Rand. Hopper conçoit l'année suivante le premier compilateur pour UNIVAC I, nommé A-0 System3. En 1955, elle invente le langage FLOW-MATIC aussi appelé B-0 (Business Language Version 0) pour l'UNIVAC I. À partir de 1957, elle travaille pour IBM, où elle défend l'idée qu'un programme devrait pouvoir être écrit dans un langage proche de l'anglais plutôt que d'être calqué sur le langage machine, comme l'assembleur. De cette idée naît le langage Cobol en 1959.
+
+En 1966, conformément au règlement en vigueur, elle doit quitter la Navy après avoir atteint l'âge de 60 ans, mais est rappelée l'année suivante5. Au cours des années 1970, elle mène les travaux d'établissement de normes pour les ordinateurs, en particulier les premiers langages de programmation évolués : Fortran et Cobol.
+
+Grace Hopper reste dans la Marine jusqu'en 1986, date à laquelle elle prend sa retraite avec le grade de Rear admiral (lower half). Elle est alors l'officier le plus âgé de la marine américaine6.
+
+Jusqu'à son décès en 1992, elle est employée comme consultante externe par Digital Equipment, pour des conférences sur les débuts de l'informatique5. Elle est enterrée avec les honneurs militaires au cimetière national d'Arlington7.
+
+Distinctions
+
+En 1986, Grace Hopper est décorée de la Defense Distinguished Service Medal, plus haute distinction existante pour les non-combattants5. En 1991, elle reçoit la National Medal of Technology pour « ses contributions novatrices dans le développement de langages de programmation »8. En 1983 elle est lauréate du prix Ada-Lovelace9.
+
+Le 22 novembre 2016, Barack Obama lui décerne à titre posthume la médaille présidentielle de la Liberté10.
+Hommages
+
+En 1973, Grace Hopper est nommée « membre émérite » (distinguished fellow) de la British Computer Society5. Elle est inscrite au National Women's Hall of Fame en 19947. Près d'une cinquantaine de doctorats honoraires lui ont été décernés5. En 1997, un destroyer de la classe Arleigh Burke, est baptisé USS Hopper (DDG-70)3.
+
+Une conférence technique internationale, organisée depuis 1994 par l'Institut Anita-Borg, est baptisée Grace Hopper Celebration of Women in Computing (en) en son honneur.
+
+La toponymie mondiale lui rend aussi hommage. En France, le Laboratoire d'informatique de l'École polytechnique a baptisé une de ses salles en son hommage. Aux États-Unis, l'académie navale a baptisé son centre de cyberdéfense en son hommage11. Au Québec, une future rue de Montréal porte officiellement son nom depuis le 3 mars 201712 (cependant, la rue située au Technoparc de Saint-Laurent n'était toujours pas construite en date de février 2024). En France, la place Grace-Murray-Hopper (13e arrondissement de Paris), lui rend hommage13 dans le nouveau quartier de la station F. La promotion 2018-2021 de la MIAGE de Sophia-Antipolis est nommée en son honneur.
+
+L'astéroïde (5773) Hopper porte également son nom.
+
+En 2022, la société de calcul informatique Nvidia lui dédie sa dernière microarchitecture.
+
+Anecdote
+
+La popularisation du terme bug est attribuée à Grace Hopper. En effet, bien que l'utilisation de ce terme soit attestée dès 187814, la présence d'un insecte (bug) dans l'ordinateur Mark II, sur lequel travaillait Hopper, a permis la consolidation définitive du terme pour désigner un problème informatique.
+Une carnet d'annotations manuscrites avec un diptère mort fixé avec un adhésif
+Journal conservé à la Smithsonian Institution.
+
+Néanmoins, comme le mentionne Hopper elle-même, elle n'était pas présente lorsque son équipe a découvert l'insecte dans l'ordinateur15,16,17.
+
+Notes et références
+
+« http://www.computerhistory.org/collections/catalog/102702026 [archive] » (consulté le 21 décembre 2016)
+« http://sirismm.si.edu/EADpdfs/NMAH.AC.0324.pdf [archive] » (consulté le 21 décembre 2016)
+(en) Susan Ware (dir.), Stacy Braukman et al., Notable American Women : A Biographical Dictionary : Completing the Twentieth Century, vol. 5, Harvard University Press, 2005, 768 p. (ISBN 978-0-674-01488-6, présentation en ligne [archive], lire en ligne [archive]), p. 309-311
+    
+    
+    
+
+

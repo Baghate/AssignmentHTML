@@ -1,0 +1,164 @@
+/* Importation de la police */
+@font-face {
+    font-family: EB_Garamond;
+    src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Monsieur_La_Doulaise;
+    src: url(Monsieur_La_Doulaise/MonsieurLaDoulaise-Regular.ttf);
+}
+
+/* Style général */
+body {
+    color: white;
+    background-color: #2a2a2a;
+    font-family: 'EB Garamond', serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Titre principal */
+#page-title {
+    font-family: 'Monsieur La Doulaise', cursive;
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 50px; /* Ajout d'un grand espace sous le titre */
+    text-decoration: underline;
+}
+
+/* Menu centré */
+#header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap; /* Gère le débordement sur petits écrans */
+}
+
+#menu li {
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+#menu li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+#menu li a:hover {
+    color: #ffc107; /* Jaune au survol */
+}
+
+/* Structure principale */  /* j'ai eu du mal à comprendre les flexbox et leur utilisation
+ * mais si je ne me trompe pas j'ai fais un container principal dans lequel se trouvent 
+ * deux autres containers pour chaque section, l'encart à droite et le texte principal à gauche
+ * et j'ai msi du temps à comprendre que les items pouvaient aussi être appele commme
+ * "h2" et "h3" je pensais qu'il fallait toujours appeler en mode .quelquechose */
+#content {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 1200px;
+    flex-wrap: wrap; /* Ajuste pour les écrans étroits */
+    gap: 40px; 
+}
+
+/* Contenu de gauche */
+#left-content {
+    flex: 3;
+    margin-right: 20px;
+    min-width: 300px;
+    text-align: justify;
+}
+
+h2 {
+    color: #ffc107; /* Jaune pour le titre principal */
+    margin-top: 20px;
+    font-size: 1.8em;
+}
+
+h3 {
+    font-size: 1.4em;
+    color: #fff;
+    margin-top: 15px;
+}
+
+/* Contenu de droite */
+#right-content {
+    flex: 1;
+    text-align: center;
+    order: 1; /* Par défaut, à droite */
+    min-width: 250px;
+    margin-left: 20px; /* Espace accru entre les colonnes */
+}
+
+.portrait {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.photodesc {
+    font-style: italic;
+    margin-top: 0;
+}
+
+.details p {
+    margin: 10px 0;
+    font-size: 1em;
+    text-align: left;
+}
+
+/* Responsive Design */ /*  ici j'ai galéré aussi parce que quand je voulais mettre une limite
+ * par rapport à la taille de l'écran pour l'affichage de la photo ça la mettait juste 
+ * sur tout l'écran et en étiré et même au dessus du menu  */
+@media (max-width: 768px) {
+    #content {
+        flex-direction: column; /* Passe en colonne */
+    }
+
+    #right-content {
+        order: -1; /* Passe au-dessus du contenu principal */
+        width: 90%;
+        margin-left: 5px; /* Supprime l'espace horizontal sur petits écrans */
+    }
+
+    #left-content {
+        order: 2;
+        width: 90%; /* Prend toute la largeur */
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    #menu ul {
+        flex-direction: column; /* Menu en colonne */
+        gap: 10px; /* Espacement réduit */
+    }
+
+    #menu li a {
+        display: block;
+        padding: 10px;
+        background-color: #444;
+        border-radius: 5px;
+        text-align: center;
+    }
+
+    #menu li a:hover {
+        background-color: #ffc107;
+        color: black;
+    }
+
+    #page-title {
+        margin-bottom: 20px; /* Réduit l'espace sur petits écrans */
+    }
+}
